@@ -4,4 +4,4 @@ su
 nane
 bal
 bardak
-this is a conflict.
+this is a resolved
